@@ -6,3 +6,8 @@ html , body {
   background-color: #333333;
   font-family: Ariel, sans-serif;
 }
+
+h1.header, h4.header {
+  font-weight: lighter;
+  color: #ffffff;
+}
